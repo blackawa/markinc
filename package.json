@@ -1,0 +1,11 @@
+{
+  "name": "markinc",
+  "version": "0.1.0",
+  "description": "Markdown extension library. You can include other files(templates) and write DRY markdown.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
